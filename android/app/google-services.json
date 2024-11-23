@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056255077153",
+    "project_id": "katalis2-44548",
+    "storage_bucket": "katalis2-44548.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056255077153:android:d30f9c1deae60703042c60",
+        "android_client_info": {
+          "package_name": "com.example.katalis2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7-O5C6UpVluO4gQ0X9WvhpvRqGjvY_5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
