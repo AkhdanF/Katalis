@@ -1,4 +1,3 @@
-**Katalis App**
 
     **Deskripsi Proyek**
         Katalis adalah aplikasi mobile berbasis Flutter yang dirancang untuk mengoptimalkan proses bisnis Usaha Mikro Kecil & Menengah (UMKM) di Indonesia, dikembangkan oleh tim MarketRizz dari Universitas Padjadjaran.
